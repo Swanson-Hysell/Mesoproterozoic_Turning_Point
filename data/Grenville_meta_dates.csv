@@ -1,0 +1,54 @@
+﻿Sample,Lithology,Latitude,Longitude,Date,Error_2sigma,Reference,Mineral,Type,Method,Comment,Region
+MR-10-132,Ybqm biotite meta-quartz monzonite,,,1055,11,Tollo2017a,zircon,metamorphic,SHRIMP,concordia intercept,Blue Ridge
+MR-10-132,Ybqm biotite meta-quartz monzonite,,,995,22,Tollo2017a,titanite,metamorphic,SHRIMP,TW3d,Blue Ridge
+MR-10-132,Ybqm biotite meta-quartz monzonite,,,906,46,Tollo2017a,titanite,metamorphic,SHRIMP,TW3d,Blue Ridge
+MR-06-17,Ypfg porphyroclastic meta-syenogranite5 HNT,,,1053,5,Tollo2010a,zircon,metamorphic,SHRIMP,concordia intercept,Blue Ridge
+MR-08-76,Ypfg porphyroclastic meta-syenogranite HNT,,,1061,7,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-11-193,Ylbg lineated biotite meta-granite,,,1049,8,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-11-193,Ylbg lineated biotite meta-granite,,,984,17,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-08-66,Ybg biotite meta-granite (med- to crs-grained),,,1028,30,Tollo2017a,titanite,metamorphic,SHRIMP,Twa,Blue Ridge
+MR-06-22,Ypg meta-granite (monzogranite),,,1156,10,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-06-22,Ypg meta-granite (monzogranite),,,1047,11,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-06-22,Ypg meta-granite (monzogranite),,,989,9,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-06-1,Ypg biotite meta-granite (alkali feldspar granite),,,1157,6,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-09-100,Yfbl biotite meta-leucogranite,,,1163,6,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-08-65,Ygw meta-leucogranite,,,1158,7,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-08-65,Ygw meta-leucogranite,,,1031,12,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-10-123,Yagn amphibole gneiss,,,1168,18,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-10-123,Yagn amphibole gneiss,,,1033,11,Tollo2017a,titanite,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-10-123,Yagn amphibole gneiss,,,996,11,Tollo2017a,titanite,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-08-70,Yla layered amphibolite,,,1145,5,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-08-70,Yla layered amphibolite,,,974,45,Tollo2017a,titanite,metamorphic,SHRIMP,Twa,Blue Ridge
+MR-06-4,Ygg amphibole granofels,,,1164,6,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-06-4,Ygg amphibole granofels,,,1148,8,Tollo2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-12-233,Y mg migmatitic granofels,,,1049,10,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+MR-08-83B,Ybm biotite schist,,,1059,9,Tollo2017a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+BV-10-97,Gt-OpxMetamonzogranite,37.6703,-79.3442,1032,3,Johnson2018a,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+BV-10-97,Gt-OpxMetamonzogranite,37.6703,-79.3442,999,11,Johnson2018a,zircon,metamorphic rim,SHRIMP,76 weighted mean that I calculated from zircon rim data provided in supplemental,Blue Ridge
+S-09-1,Gt-OpxMetamonzogranite,37.5426,-79.4840,1028,2,Johnson2018a,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+S-10-1,Gt-OpxLeucogranitoid,37.5505,-79.4519,1019,3,Johnson2018a,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+ST-10-1,Gt-OpxOrthogneiss,37.2964,-79.8709,1032,3,Johnson2018a,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+HF-1-90,foliated monzogranite orthogneiss,,,1086,28,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+OR97-35,,,,1024,3,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+FM-1-07,,,,1024,6,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+FU-2-06,,,,1016,4,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+FU-2-06,,,,1066,5,Johnson2020,monazite,metamorphic,LA-ICP-MS,207Pb-corrected 238U-206Pb date,Blue Ridge
+A-1-08,,,,1025,5,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+MV-11-87,,,,1043,4,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+MV-12-87,,,,1068,3,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+ST-10-2,,,,1048,6,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+C-10-1,,,,1010,6,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+C-12-1,,,,1018,3,Johnson2020,garnet,metamorphic,MC-ICP-MS,Lu-Hf isochron dates; note that Sm-Nd isochrons give younger ages interpretted as cooling ages,Blue Ridge
+LN398,Foliated Coarse-Grained Biotitic Monzogranite,,,1067,11,Southworth2010a,zircon,metamorphic,SHRIMP,concordia intercept,Blue Ridge
+HF2-90,,,,1048,12,Southworth2010a,zircon,metamorphic,SHRIMP,concordia intercept,Blue Ridge
+BR-11-90,,,,1061,7,Southworth2010a,zircon,metamorphic,SHRIMP,concordia intercept,Blue Ridge
+HF1-90,,,,1028,7,Southworth2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+BL-1-94,,,,1049,13,Southworth2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+WW29-90,,,,1088,13,Southworth2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+WW29-90,,,,1040,6,Southworth2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+BR1313,,,,1045,13,Southworth2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+BR554-90,,,,1002,8,Southworth2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+BR1674-93,,,,1071,6,Southworth2010a,zircon,metamorphic,SHRIMP,76 weighted mean,Blue Ridge
+DEL04-5,Foliated granodioritic orthogneiss,,,1044,8,Moecher2020,zircon,metamorphic,,76 weighted mean,Blue Ridge
+DEL10-11,Granitic orthogneiss,,,1038,20,Moecher2020,zircon,metamorphic,LA-ICP-MS,76 weighted mean,Blue Ridge
+SG18-2,Mafic enclave in orthogneiss,,,1043,8,Moecher2020,zircon,metamorphic,,76 weighted mean,Blue Ridge
