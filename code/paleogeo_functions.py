@@ -252,7 +252,7 @@ def get_single_craton_XYs(gpml):
             
     return Xs, Ys
 
-def craton_plot(ax, plateIDs, Eulers, edgecolor, facecolor, alpha, linewidth, gpml = '../GPlates/Cratons/shapes_cratons.gpml', reverse_draw=False):
+def craton_plot(ax, plateIDs, Eulers, edgecolor, facecolor, alpha, linewidth, gpml = '../GPlates/Cratons/shapes_cratons.gpml', reverse_draw=False,draw_face=True,draw_edge=True):
     """
     Plot cratons with rotation.
     
@@ -296,14 +296,17 @@ def craton_plot(ax, plateIDs, Eulers, edgecolor, facecolor, alpha, linewidth, gp
     # add cratons
     for i in range(len(rotated_Xs)):
         XY = np.stack([rotated_Xs[i][::-1],rotated_Ys[i][::-1]],axis=1)
-        poly_edge = patches.Polygon(XY,
-                                    edgecolor=edgecolor,facecolor='none',alpha=alpha,
-                                    transform=ccrs.Geodetic(), linewidth=linewidth)
-        poly_face = patches.Polygon(XY,
-                                    edgecolor='none',facecolor=facecolor,alpha=alpha,
-                                    transform=ccrs.Geodetic())
-        ax.add_patch(poly_face)
-        ax.add_patch(poly_edge)
+        if draw_edge:
+            poly_edge = patches.Polygon(XY,
+                                        edgecolor=edgecolor,facecolor='none',alpha=alpha,
+                                        transform=ccrs.Geodetic(), linewidth=linewidth)
+            ax.add_patch(poly_edge)
+        if draw_face:
+            poly_face = patches.Polygon(XY,
+                                        edgecolor='none',facecolor=facecolor,alpha=alpha,
+                                        transform=ccrs.Geodetic())
+            ax.add_patch(poly_face)
+
         
         
 def single_craton_plot(ax, gpml, Eulers, edgecolor, facecolor, alpha, linewidth):
