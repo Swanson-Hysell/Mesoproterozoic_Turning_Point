@@ -1,5 +1,4 @@
-Sample_No,Age,Error_Plus,Error_Minus,Age_Method,Age_Interpretation,Age_Note,Age_Material,Age_Technique,Age_Qualifier,Geological_Province,Province,Latitude,Longitude,Location,"
-",Rock_Type,Rock_Description,References,Compilation_Source,,UTM_Zone,UTM_Easting,UTM_Northing,Comment,Tectonic_Unit
+Sample_No,Age,Error_Plus,Error_Minus,Age_Method,Age_Interpretation,Age_Note,Age_Material,Age_Technique,Age_Qualifier,Geological_Province,Province,Latitude,Longitude,Location,Geological_Info,Rock_Type,Rock_Description,References,Compilation_Source,,UTM_Zone,UTM_Easting,UTM_Northing,Comment,Tectonic_Unit
 MR-10-132,1055,11,,,Metamorphic,concordia intercept,zircon,SHRIMP,,Blue Ridge,,,,,,,Ybqm biotite meta-quartz monzonite,,compiled by NSH,Tollo2017a,,,,,
 MR-10-132,995,22,,,Metamorphic,TW3d,titanite,SHRIMP,,Blue Ridge,,,,,,,Ybqm biotite meta-quartz monzonite,,compiled by NSH,Tollo2017a,,,,,
 MR-10-132,906,46,,,Metamorphic,TW3d,titanite,SHRIMP,,Blue Ridge,,,,,,,Ybqm biotite meta-quartz monzonite,,compiled by NSH,Tollo2017a,,,,,
