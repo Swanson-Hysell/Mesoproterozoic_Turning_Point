@@ -262,29 +262,34 @@
 119  0.0   90.0    0.0    0.0  101 !CEED6 Torsvik and Cocks 2016
 119 118.0   90.0    0.0    0.0  101 !CEED6 Torsvik and Cocks 2016
 119 144.0   50.6 -140.0  -25.0  101 !CEED6 Torsvik and Cocks 2016
-120  0.0   90.0    0.0    0.0  101 !CEED6 Torsvik and Cocks 2016
-120 360.0   90.0    0.0    0.0  101 !CEED6 Torsvik and Cocks 2016
-120 400.0    7.0   35.0   -3.5  101 !CEED6 Torsvik and Cocks 2016
-120 1150.0    7.0   35.0   -3.5  101 !CEED6 Torsvik and Cocks 2016
-121  0.0   90.0    0.0    0.0  102 !CEED6 Torsvik and Cocks 2016
-121 50.0   90.0    0.0    0.0  102 !CEED6 Torsvik and Cocks 2016
-121 56.0   41.0  180.0    2.0  102 !CEED6 Torsvik and Cocks 2016
-121 1150.0   41.0  180.0    2.0  102 !CEED6 Torsvik and Cocks 2016
-122  0.0   90.0    0.0    0.0  123 !CEED6 Torsvik and Cocks 2016
-122 33.2   90.0    0.0    0.0  123 !CEED6 Torsvik and Cocks 2016
-122 56.0   58.0  -87.0   -1.0  123 !CEED6 Torsvik and Cocks 2016
-122 100.0   58.0  -87.0   -1.0  123 !CEED6 Torsvik and Cocks 2016
-122 200.0   58.0  -87.0   -1.0  123 !CEED6 Torsvik and Cocks 2016
-122 360.0   58.0  -87.0   -1.0  123 !CEED6 Torsvik and Cocks 2016
-122 400.0   58.0  -87.0   -1.0  123 !CEED6 Torsvik and Cocks 2016
-122 1150.0   58.0  -87.0   -1.0  123 !CEED6 Torsvik and Cocks 2016
-123  0.0   90.0    0.0    0.0  124 !CEED6 Torsvik and Cocks 2016
-123 33.2   90.0    0.0    0.0  124 !CEED6 Torsvik and Cocks 2016
-123 56.2   53.88 -101.25   -0.58  124 !CEED6 Torsvik and Cocks 2016
-123 190.0   53.88 -101.25   -0.58  124 !CEED6 Torsvik and Cocks 2016
-123 1150.0   53.88 -101.25   -0.58  124 !CEED6 Torsvik and Cocks 2016
-124  0.0   90.0    0.0    0.0  120 !CEED6 Torsvik and Cocks 2016
-124 1150.0   90.0    0.0    0.0  120 !CEED6 Torsvik and Cocks 2016
+120  0.0   0.0    0.0    0.0  101 !Rotations for 120 to 124 are from Gion et al. 2016 CAI-NAM       
+120 35.0   0.0    0.0    0.0  101 !CAI-NAM
+120 56.0  57.15 -137.0   -1.07  101 !CAI-NAM fit, NW passage, Lawver et al. 1990
+120 1800.0  57.15 -137.0   -1.07  101 !CAI-NAM fit, NW passage, Lawver et al. 1990
+121  0.0   0.0    0.0    0.0  122 !ELA-ELB East Ellesmere Island-East-Central Ellesmere Island
+121 35.0   0.0    0.0    0.0  122 !ELA-ELB
+121 49.0 -71.11   87.9    1.09  122 !ELA-ELB Gion et. al. 2016 Compression, used to control rate
+121 53.0 -79.24 -143.52   -2.4  122 !ELA-ELB Gion et. al. 2016 Aproximate start of compression
+121 55.0 -82.12 -158.92   -2.66  122 !ELA-ELB Gion et. al. 2016 Mimics Greenlands rotation
+121 56.0  83.39   -3.34    3.24  122 !ELA-ELB Gion et. al. 2016 Mimics Greenlands rotation
+121 68.0  58.12 -104.43   -1.86  122 !ELA-ELB Gion et. al. 2016 Approximate date of orogeny phase 1
+121 1800.0  58.12 -104.43   -1.86  122 !ELA-ELB Gion et. al. 2016 Propegation of last rotation
+122  0.0   0.0    0.0    0.0  123 !ELB-ELC East-central Ellesmere-West-central Ellesmere Island
+122 33.0   0.0    0.0    0.0  123 !ELB-ELC
+122 46.0  80.69   -0.94    0.79  123 !ELB-ELC Gion et. al. 2016 Compression, used to control rate
+122 53.0  80.32   14.89    1.93  123 !ELB-ELC Gion et. al. 2016 Aproximate start of compression
+122 54.0  79.16   30.91    1.51  123 !ELB-ELC Gion et. al. 2016 Mimics Greenlands rotation
+122 68.0 -70.27 -154.4   -0.98  123 !ELB-ELC Gion et. al. 2016 Approximate date of orogeny phase 1
+122 1800.0 -70.27 -154.4   -0.98  123 !ELB-ELC Gion et. al. 2016 Propegation of last rotation
+123  0.0   0.0    0.0    0.0  124 !ELC-ELD West-central Ellesmere-West Ellesmere Island
+123 33.0   0.0    0.0    0.0  124 !ELC-ELD
+123 53.0 -81.16 -116.64   -1.47  124 !ELC-ELD Gion et. al. 2016 Extension needed to maintain distance from Greenland
+123 68.0  -0.21 -133.96   -0.39  124 !ELC-ELD Gion et. al. 2016 Approximate date of orogeny phase 1
+123 1800.0  -0.21 -133.96   -0.39  124 !ELC-ELD Gion et al. 2016
+124  0.0   0.0    0.0    0.0  120 !ELD-CAI West Ellesmere-Canadian Arctic Islands
+124 35.0   0.0    0.0    0.0  120 ! ELD-CAI
+124 53.0  76.6  -89.13   -1.55  120 !ELD-CAI Gion et. al. 2016  Maintain rigid plate
+124 1800.0  76.6  -89.13   -1.55  120 !ELD-CAI Gion et. al. 2016 Propegation of last rotation
 125  0.0   90.0    0.0    0.0  160 !CEED6 Torsvik and Cocks 2016
 125 230.0   90.0    0.0    0.0  160 !CEED6 Torsvik and Cocks 2016
 125 260.0   22.67   87.05  -27.24  160 !CEED6 Torsvik and Cocks 2016
